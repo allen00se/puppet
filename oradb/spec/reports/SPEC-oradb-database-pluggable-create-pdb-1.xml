@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::database_pluggable create pdb 1" tests="1" time="0.034956" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:56+02:00">
+  <testcase name="oradb::database_pluggable create pdb 1 should raise Puppet::Error with message matching /You must specify an pdb_datafile_destination/" time="0.034351">
+  </testcase>
+</testsuite>

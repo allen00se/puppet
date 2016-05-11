@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::database wrong em_configuration" tests="1" time="0.134937" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:55+02:00">
+  <testcase name="oradb::database wrong em_configuration should raise Puppet::Error with message matching /Unrecognized em_configuration/" time="0.133882">
+  </testcase>
+</testsuite>

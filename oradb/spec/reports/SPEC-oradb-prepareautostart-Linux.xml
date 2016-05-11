@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::prepareautostart Linux" tests="1" time="0.036219" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:54+02:00">
+  <testcase name="oradb::prepareautostart Linux should contain File[/etc/init.d/oracle] with content =~ /LOCK_FILE=\/var\/lock\/subsys\/oracle/, ensure =&gt; &quot;present&quot;, mode =&gt; &quot;0755&quot; and owner =&gt; &quot;root&quot;" time="0.035596">
+  </testcase>
+</testsuite>

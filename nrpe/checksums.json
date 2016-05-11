@@ -1,0 +1,14 @@
+{
+  "Gemfile": "35c4542e677a8f4c842ff0043c399ed1",
+  "LICENSE": "3a9bf9d0813d3120d042e42b976bdc31",
+  "README.md": "d7b17521018b51687c0f57c7dce0bb10",
+  "Rakefile": "87ee3b5b114ae2b1eaaedaf0cd50df37",
+  "manifests/init.pp": "83fe9cba68c4329304f2f5d6eadb8c0f",
+  "manifests/plugin.pp": "58414edf37eefbb6a794590a099b1df6",
+  "metadata.json": "5b6846dcd3c5a3487178de0264c4c3b9",
+  "spec/classes/init_spec.rb": "9b527a76cc9414360be273fed25ca97c",
+  "spec/defines/plugin_spec.rb": "3b48e55da6a8c966833acea760dd7ce6",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/nrpe.cfg.erb": "29b67c8eef8f0b60a9e1489ebfe22624",
+  "templates/plugin.erb": "2c146e310d3e594b20a27aee9ceee5e1"
+}

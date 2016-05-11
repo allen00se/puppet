@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::installasm wrong O.S." tests="1" time="0.129894" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:56+02:00">
+  <testcase name="oradb::installasm wrong O.S. should raise Puppet::Error with message matching /Unrecognized operating system, please use it on a Linux or SunOS host/" time="0.12913">
+  </testcase>
+</testsuite>

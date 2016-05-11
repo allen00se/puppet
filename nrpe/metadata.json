@@ -1,0 +1,75 @@
+{
+  "name": "ghoneycutt-nrpe",
+  "version": "1.1.1",
+  "author": "ghoneycutt",
+  "summary": "Manage NRPE",
+  "license": "Apache-2.0",
+  "source": "git://github.com/ghoneycutt/puppet-module-nrpe.git",
+  "project_page": "https://github.com/ghoneycutt/puppet-module-nrpe",
+  "issues_url": "https://github.com/ghoneycutt/puppet-module-nrpe/issues",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 3.2.0 < 5.0.0"}
+  ],
+  "data_provider": null,
+  "requirements": [
+    {
+      "name": "pe",
+      "version_requirement": ">= 3.0.0 < 5.0.0"
+    },
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.0.0 < 5.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Solaris",
+      "operatingsystemrelease": [
+        "10"
+      ]
+    },
+    {
+      "operatingsystem": "SLES"
+    },
+    {
+      "operatingsystem": "SLED"
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04"
+      ]
+    }
+  ],
+  "description": "Manage NRPE - Nagios Remote Plugin Executor"
+}

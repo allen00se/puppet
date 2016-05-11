@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::database_pluggable unknown action" tests="1" time="0.054985" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:56+02:00">
+  <testcase name="oradb::database_pluggable unknown action should raise Puppet::Error with message matching /Unrecognized ensure value, use present or absent/" time="0.05416">
+  </testcase>
+</testsuite>

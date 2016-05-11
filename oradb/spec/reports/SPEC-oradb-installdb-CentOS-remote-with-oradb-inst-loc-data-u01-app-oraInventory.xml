@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::installdb CentOS remote with oradb_inst_loc_data=/u01/app/oraInventory" tests="2" time="0.109202" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:57+02:00">
+  <testcase name="oradb::installdb CentOS remote with oradb_inst_loc_data=/u01/app/oraInventory should contain Db_directory_structure[oracle structure 12.1.0.1] with ora_inventory_dir =&gt; &quot;/u01/app/oraInventory&quot;" time="0.103995">
+  </testcase>
+  <testcase name="oradb::installdb CentOS remote with oradb_inst_loc_data=/u01/app/oraInventory should contain Oradb::Utils::Dborainst[database orainst 12.1.0.1] with ora_inventory_dir =&gt; &quot;/u01/app/oraInventory&quot;" time="0.004245">
+  </testcase>
+</testsuite>

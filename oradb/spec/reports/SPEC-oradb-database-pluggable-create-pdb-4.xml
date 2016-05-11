@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::database_pluggable create pdb 4" tests="1" time="0.050169" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:56+02:00">
+  <testcase name="oradb::database_pluggable create pdb 4 should raise Puppet::Error with message matching /You must specify an source_db/" time="0.049646">
+  </testcase>
+</testsuite>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::database wrong action" tests="1" time="0.039788" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:55+02:00">
+  <testcase name="oradb::database wrong action should raise Puppet::Error with message matching /Unrecognized database action/" time="0.039234">
+  </testcase>
+</testsuite>

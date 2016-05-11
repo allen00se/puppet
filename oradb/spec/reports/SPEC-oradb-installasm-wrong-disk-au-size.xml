@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oradb::installasm wrong disk_au_size" tests="1" time="0.058015" failures="0" errors="0" skipped="0" timestamp="2016-04-25T15:32:56+02:00">
+  <testcase name="oradb::installasm wrong disk_au_size should raise Puppet::Error with message matching /invalid disk_au_size/" time="0.057333">
+  </testcase>
+</testsuite>
